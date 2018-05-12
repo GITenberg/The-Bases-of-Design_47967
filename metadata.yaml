@@ -1,4 +1,8 @@
 _repo: The-Bases-of-Design_47967
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47967-h/images/cover.jpg
 creator:
   author:
     agent_name: Crane, Walter
@@ -11,6 +15,8 @@ description: A survey of design culminating up to Crane's own aesthetic principl
   with hundreds of illustrations. A standard work focusing on the development of aesthetic
   design, dedicated to Charles Rowley, head of the Manchester Municipal School of
   Art.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47967#The-Bases-of-Design
 gutenberg_issued: '2015-01-13'
 gutenberg_type: Text
 identifiers:
